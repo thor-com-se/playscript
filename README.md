@@ -4,7 +4,7 @@
 
 This link should be opened on a desktop computer.
 
-https://hejthor.github.io/playscript/
+https://4h0r.github.io/playscript/
 
 ## Description
 
